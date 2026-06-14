@@ -1,0 +1,9 @@
+{
+  "name": "goodnight-from-here",
+  "version": "1.0.0",
+  "description": "A deeply emotional, cinematic interactive love-letter website",
+  "private": true,
+  "engines": {
+    "node": "18.x || 20.x"
+  }
+}
